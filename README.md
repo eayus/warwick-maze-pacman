@@ -1,5 +1,5 @@
 # Warwick University Pacman Game
-A Pacman game to be played within the Warwick University maze coursework environment. This was a fun extension to the coursework, where we got to create anything we liked out of the maze environemnt - I chose to create Pacman.<br>
+A Pacman game to be played within the Warwick University maze coursework environment. This was a fun extension to the coursework, where we got to create anything we liked out of the maze environment - I chose to create Pacman.<br>
 <br>
 ### Running
 Unfortunately I am unable to supply the maze environemnt, because it is property of the University not mine. However, Computer Science Warwick students will have access to this on the CS118 web page. It is compiled in the same way as any other robot controller:<br>

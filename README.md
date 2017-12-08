@@ -6,7 +6,7 @@ Unfortunately I am unable to supply the maze environemnt, because it is property
 
 ```javac -cp maze-environemnt.jar:. Pacman.java```
 <br>
-Add the Pacman.class as a controller in the maze environment, and click 'Begin' once to start the game. Focus the white popup window to control pacman, as this is what takes the input.<br><br>
+Add the Pacman.class as a controller in the maze environment, and click 'Begin' once to start the game. You'll probably want to decrease the 'Robot Delay' slider to speed up the game a little bit (having it too high causes screen tearing sometimes). Focus the white popup window to control pacman, as this is what takes the input.<br><br>
 
 ### Game Details
 It is a fairly simple pacman clone. It features 3 different Ghost AIs, each inspired by a ghost in the original game; a high score counter; fruits you can eat to make the ghosts run away; and most other things you'd expect from a pacman clone.<br><br>
